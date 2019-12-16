@@ -1,0 +1,10 @@
+Timestamp,Address,ZIP,FullName,FooDuration,BarDuration,TotalDuration,Notes
+2011-04-01T14:00:00.000-04:00,"123 4th St, Anywhere, AA",94121,MONKEY ALBERTO,1:23:32.123,1:32:33.123,zzsasdfa,I am the very model of a modern major general
+2014-03-12T03:00:00.000-04:00,"Somewhere Else, In Another Time, BB",00001,SUPERMAN �BERTAN,111:23:32.123,1:32:33.123,zzsasdfa,This is some Unicode right h�xxx � �! ��
+2016-02-29T15:11:11.000-05:00,111 Ste. #123123123,01101,R�SUM� RON,31:23:32.123,1:32:33.123,zzsasdfa,����������
+2011-01-01T03:00:01.000-05:00,"This Is Not An Address, BusyTown, BT",94121,MARY 1,1:23:32.123,0:00:00.000,zzsasdfa,I like Emoji! ������
+2017-01-01T02:59:59.000-05:00,"123 Gangnam Style Lives Here, Gangnam Town",31403,ANTICIPATION OF UNICODE FAILURE,1:23:32.123,1:32:33.123,zzsasdfa,I like Math Symbols! ����
+2011-11-11T14:11:11.000-05:00,�berTown,10001,PROMPT NEGOTIATOR,1:23:32.123,1:32:33.123,zzsasdfa,"I�m just gonna say, this is AMAZING. WHAT NEGOTIATIONS."
+2010-05-12T19:48:12.000-04:00,H���k�,01231,SLEEPER SERVICE,1:23:32.123,1:32:33.123,zzsasdfa,2/1/22
+2012-10-06T01:31:11.000-04:00,"Test Pattern Town, Test Pattern, TP",00121,�����������,1:23:32.123,1:32:33.123,zzsasdfa,1:11:11.123
+2004-10-02T11:44:11.000-04:00,The Moon,00011,HERE WE GO,1:23:32.123,1:32:33.123,zzsasdfa,

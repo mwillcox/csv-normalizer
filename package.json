@@ -1,0 +1,22 @@
+{
+  "name": "csv-normalizer",
+  "version": "1.0.0",
+  "description": "A tool for normalizing CSV data",
+  "main": "normalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwillcox/csv-normalizer.git"
+  },
+  "author": "Michelle Willcox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwillcox/csv-normalizer/issues"
+  },
+  "homepage": "https://github.com/mwillcox/csv-normalizer#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.27"
+  }
+}
