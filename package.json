@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwillcox/csv-normalizer#readme",
   "dependencies": {
-    "moment-timezone": "^0.5.27"
+    "moment-timezone": "^0.5.35"
   }
 }
